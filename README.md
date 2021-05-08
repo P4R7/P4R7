@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P4R7
+- 👋 Hi, my name is parivesh, i am a Java and Kotlin Developer.
 - 👀 I’m interested in Java, Kotlin and React and Python
 - 🌱 I’m currently learning Kotlin and React 
 - 💞️ I’m looking to collaborate on Java MVC project
