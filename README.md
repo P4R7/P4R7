@@ -1,7 +1,7 @@
-- 👋 Hi, my name is parivesh, i am a Java and Kotlin Developer.
-- 👀 I’m interested in Java, Kotlin and React and Python
-- 🌱 I’m currently learning Kotlin and React 
-- 💞️ I’m looking to collaborate on Java MVC project
+- 👋 Hi, my name is parivesh, i am a Java ,Kotlin, Python, Javascript, goLang Developer.
+- 👀 I’m interested in good understandable code 
+- 🌱 I’m currently learning GoLang and terraform
+- 💞️ I’m looking to collaborate on web application or cloud projects
 - 📫 How to reach me discord as user : p4r7
 
 <!---
