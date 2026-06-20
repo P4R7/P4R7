@@ -1,4 +1,4 @@
-- 👋 Hi, my name is parivesh, i am a Software Engineer.
+- 👋 Hi, my name is parivesh, i am a Lead Software Engineer.
 - 👀 I’m interested in good understandable code and Processes
 - 🌱 I’m currently learning Application Architecture Design.
 - 💞️ I’m looking to collaborate on web application or cloud projects.
